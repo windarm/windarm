@@ -2,7 +2,7 @@
 
 ### Hi there, I'm WindarM :blush:
 
-## Web & Discor.js Developer | Youtube Content Creator
+## Web & Discord.js Developer | Youtube Content Creator
 
 <font color="blue">Writing `<code/>` by listening to Mozart and drinking Coffee
 </font>
