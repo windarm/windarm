@@ -21,8 +21,6 @@
 ### <img src="https://s.w.org/images/core/emoji/14.0.0/svg/27a1.svg" widht="20" height="11"> My Projects
 <img src="https://media.discordapp.net/attachments/1048503818675040347/1048996356284485642/windarmlogo.png" widht="30" height="30">
 
-<br />
-
 ### About & Contact
 - 🙍‍♂️ My name is Cem
 - ✨I'm 17 years old.
