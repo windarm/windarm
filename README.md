@@ -2,7 +2,7 @@
 
 ### Hi there, I'm WindarM :blush:
 
-## Web & Discord.js Developer | Youtube Content Creator
+## Web & Discor.js Developer | Youtube Content Creator
 
 <font color="blue">Writing `<code/>` by listening to Mozart and drinking Coffee
 </font>
@@ -27,8 +27,8 @@
 
 <br />
 
-
-
+● 🙍‍♂️he/him
+● 📧 [Discord Server](https://discord.gg/dKESRJ2XTY)
 
 <img src="https://github-readme-stats.vercel.app/api?username=windarm&theme=merko">
 
