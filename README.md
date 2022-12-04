@@ -30,11 +30,11 @@
 
 
 <details>
-<summary>:bulb Github Stats</summary>
+<summary>Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=windarm&theme=merko">
 </details>
 
 <details>
-<summary>:bulb Most Used Languages</summary>
+<summary>Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windarm&layout=compact">
 </details>
