@@ -29,14 +29,7 @@
 
 
 
-<details>
-<summary>Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=windarm&theme=merko">
-</details>
 
 <img src="https://github-readme-stats.vercel.app/api?username=windarm&theme=merko">
 
-<details>
-<summary>Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windarm&layout=compact">
-</details>
