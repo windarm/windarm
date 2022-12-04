@@ -27,8 +27,8 @@
 
 <br />
 
-● 🙍‍♂️he/him
-● 📧 [Discord Server](https://discord.gg/dKESRJ2XTY)
+- 🙍‍♂️he/him
+- 📧 [Discord Server](https://discord.gg/dKESRJ2XTY)
 
 <img src="https://github-readme-stats.vercel.app/api?username=windarm&theme=merko">
 
