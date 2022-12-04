@@ -27,8 +27,12 @@
 
 <br />
 
+### About & Contact
+- 🙍‍♂️ My name is Cem
+- ✨I'm 17 years old.
 - 🙍‍♂️he/him
-- 📧 [Discord Server](https://discord.gg/dKESRJ2XTY)
+- 📧 [WindarM Discord](https://discord.gg/dKESRJ2XTY)
+- ⌨️ [WindarM Site](https://windarm.web.tr/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=windarm&theme=merko">
 
