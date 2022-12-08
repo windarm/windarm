@@ -1,35 +1,42 @@
 <img src="https://media.giphy.com/media/4UPnJs2sAPEaEeGBo8/giphy.gif" align="right">
 
-### Hi there, I'm WindarM :blush:
+### ``Hi there, I'm WindarM`` :blush:
 
-## Web & Discor.js Developer | Youtube Content Creator
+## ***Web & Discor.js Developer | Youtube Content Creator***
 
-<font color="blue">Writing `<code/>` by listening to Mozart and drinking Coffee
-</font>
+**<font color="blue">Writing `<code/>` by listening to Mozart and drinking Coffee
+</font>**
 
-### Discord Nick: WindarM#5117
+### ***My Discord Profile***
 
-### Tech I use
+[![Discord Presence](https://lanyard.cnrad.dev/api/976327903266611250)](https://discord.com/users/976327903266611250)
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" widht="25" height="25">.
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" widht="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" widht="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" widht="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" widht="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" widht="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" widht="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" widht="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" widht="25" height="25">
-### <img src="https://s.w.org/images/core/emoji/14.0.0/svg/27a1.svg" widht="20" height="11"> My Projects
-<img src="https://media.discordapp.net/attachments/1048503818675040347/1048996356284485642/windarmlogo.png" widht="30" height="30">
 
-### About & Contact
+
+### ***Languages I know***
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/C-E34F26?style=for-the-badge&logo=c&logoColor=white) ![XML](https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logo=xml&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-E34F26?style=for-the-badge&logo=css&logoColor=white)
+
+### ***About & Contact***
 - 🙍‍♂️ My name is Cem
 - ✨I'm 17 years old.
 - 🙍‍♂️he/him
 - 📧 [WindarM Discord](https://discord.gg/dKESRJ2XTY)
 - ⌨️ [WindarM Site](https://windarm.web.tr/)
 
+</br>
+<div align="center">
+<h5>Contact İnformation<h5>
+<a href="https://discord.gg/dKESRJ2XTY" target"blank_"><img src="https://img.shields.io/badge/Axelance%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://github.com/windarm" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+<div align="center">
+  <div><img src="https://gpvc.arturio.dev/windarm"/></div>
+  </br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=windarm&theme=merko">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windarm&layout=compact">
+
+
+
