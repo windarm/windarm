@@ -27,7 +27,6 @@
 </br>
 <div align="center">
 <h5>Contact İnformation<h5>
-<a href="https://discord.gg/dKESRJ2XTY" target"blank_"><img src="https://img.shields.io/badge/Axelance%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://github.com/windarm" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 <div align="center">
