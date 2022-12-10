@@ -21,7 +21,7 @@
 - 🙍‍♂️ My name is Cem
 - ✨I'm 17 years old.
 - 🙍‍♂️he/him
-- 📧 [SerfBot.xyz Support Server]([https://discord.gg/dKESRJ2XTY](https://discord.gg/9HjEwUQCgC))
+- 📧 [SerfBot.xyz Support Server](https://discord.gg/9HjEwUQCgC)
 - ⌨️ [SerfBot.xyz](https://serfbot.xyz/)
 
 </br>
