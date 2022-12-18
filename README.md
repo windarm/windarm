@@ -19,7 +19,7 @@
 
 ### ***About & Contact***
 - 🙍‍♂️ My name is Cem
-- ✨I'm 17 years old.
+- ✨I'm 16 years old.
 - 🙍‍♂️he/him
 - 📧 [SerfBot.xyz Support Server](https://discord.gg/9HjEwUQCgC)
 - ⌨️ [SerfBot.xyz](https://serfbot.xyz/)
