@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/4UPnJs2sAPEaEeGBo8/giphy.gif" align="right">
 
-### ``Hi there, I'm WindarM`` :blush:
+### ``Hi there, I'm KodeX`` :blush:
 
 ## ***Web & Discord.js Developer | Youtube Content Creator***
 
